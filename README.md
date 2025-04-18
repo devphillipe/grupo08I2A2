@@ -10,7 +10,6 @@ Repositório criado para centralizar os arquivos, anotações, códigos e entreg
 - [Objetivos do repositório](#objetivos-do-repositório)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Como contribuir](#como-contribuir)
-- [Equipe](#equipe)
 - [Licença](#licença)
 
 ---
@@ -34,8 +33,9 @@ O curso **Agentes Inteligentes** aborda os fundamentos e aplicações práticas 
 
 ## 🚀 Tecnologias utilizadas
 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- (Adicione outras aqui conforme forem sendo usadas)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
+(Adicione outras aqui conforme forem sendo utilizadas)
 
 ---
 
@@ -46,7 +46,7 @@ O curso **Agentes Inteligentes** aborda os fundamentos e aplicações práticas 
 1. Crie uma branch com seu nome ou funcionalidade
 2. Faça suas alterações com commits claros
 3. Abra um Pull Request com um resumo das mudanças
-   
+
 ---
 
 ## 📝 Licença
