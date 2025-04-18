@@ -7,14 +7,14 @@ Repositório criado para centralizar os arquivos, anotações, códigos e entreg
 ## 🔖 Índice
 
 - [Sobre o curso](#sobre-o-curso)
-- [Objetivos do repositório](#objetivos-do-repositório)
+- [Objetivos do repositório](#objetivos-do-repositorio)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Como contribuir](#como-contribuir)
-- [Licença](#licença)
+- [Licença](#licenca)
 
 ---
 
-## 📘 Sobre o curso
+## Sobre o curso
 
 O curso **Agentes Inteligentes** aborda os fundamentos e aplicações práticas de agentes autônomos, com foco em inteligência artificial, tomada de decisão, ambientes reativos, deliberativos e sistemas multiagentes.
 
@@ -22,7 +22,7 @@ O curso **Agentes Inteligentes** aborda os fundamentos e aplicações práticas 
 
 ---
 
-## 🎯 Objetivos do repositório
+## Objetivos do repositório
 
 - Armazenar atividades práticas desenvolvidas ao longo do curso
 - Centralizar pesquisas, implementações e discussões do grupo
@@ -31,7 +31,7 @@ O curso **Agentes Inteligentes** aborda os fundamentos e aplicações práticas 
 
 ---
 
-## 🚀 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
@@ -39,7 +39,7 @@ O curso **Agentes Inteligentes** aborda os fundamentos e aplicações práticas 
 
 ---
 
-## 🤝 Como contribuir
+## Como contribuir
 
 > Este repositório é mantido pelo grupo de alunos do curso. Caso você seja parte do time, siga os passos abaixo:
 
@@ -49,7 +49,7 @@ O curso **Agentes Inteligentes** aborda os fundamentos e aplicações práticas 
 
 ---
 
-## 📝 Licença
+## Licença
 
 Este projeto está licenciado sob a Licença MIT.  
 Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
