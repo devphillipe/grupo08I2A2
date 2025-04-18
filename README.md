@@ -35,8 +35,6 @@ O curso **Agentes Inteligentes** aborda os fundamentos e aplicações práticas 
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
-(Adicione outras aqui conforme forem sendo utilizadas)
-
 ---
 
 ## Como contribuir
