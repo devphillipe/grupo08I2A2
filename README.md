@@ -7,10 +7,10 @@ Repositório criado para centralizar os arquivos, anotações, códigos e entreg
 ## 🔖 Índice
 
 - [Sobre o curso](#sobre-o-curso)
-- [Objetivos do repositório](#objetivos-do-repositorio)
+- [Objetivos do repositorio](#objetivos-do-repositorio)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Como contribuir](#como-contribuir)
-- [Licença](#licenca)
+- [Licenca](#licenca)
 
 ---
 
@@ -22,7 +22,7 @@ O curso **Agentes Inteligentes** aborda os fundamentos e aplicações práticas 
 
 ---
 
-## Objetivos do repositório
+## Objetivos do repositorio
 
 - Armazenar atividades práticas desenvolvidas ao longo do curso
 - Centralizar pesquisas, implementações e discussões do grupo
@@ -49,7 +49,7 @@ O curso **Agentes Inteligentes** aborda os fundamentos e aplicações práticas 
 
 ---
 
-## Licença
+## Licenca
 
 Este projeto está licenciado sob a Licença MIT.  
 Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
